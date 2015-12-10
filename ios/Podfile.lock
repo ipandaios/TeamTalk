@@ -27,19 +27,19 @@ PODS:
   - FMDB/standard (2.5):
     - FMDB/common
   - HPGrowingTextView (1.1)
-  - Masonry (0.6.1)
+  - Masonry (0.6.3)
   - MBProgressHUD (0.9.1)
   - MWPhotoBrowser (1.4.1):
     - DACircularProgress
     - MBProgressHUD (~> 0.8)
     - PSTCollectionView (~> 1.2)
     - SDWebImage (~> 3.7)
-  - ProtocolBuffers (1.9.8)
+  - ProtocolBuffers (1.9.9.2)
   - PSTCollectionView (1.2.3)
-  - SCLAlertView-Objective-C (0.7.3)
-  - SDWebImage (3.7.2):
-    - SDWebImage/Core (= 3.7.2)
-  - SDWebImage/Core (3.7.2)
+  - SCLAlertView-Objective-C (0.7.9)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
   - SVWebViewController (1.0)
   - TTTAttributedLabel (1.13.4)
   - XHImageViewer (0.1.2)
@@ -69,13 +69,13 @@ SPEC CHECKSUMS:
   DACircularProgress: 0f92b77239d5f3c612fc66185e2998391ac8e054
   FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
   HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
-  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
   MWPhotoBrowser: 2531e682860d62b8a7ba8659de02eb9040e431e5
-  ProtocolBuffers: 9a4a171c0c7cc8f21dd29aeca4f9ac775d84a880
+  ProtocolBuffers: 7111461618460961e6b7469177ec45ee551b4f0e
   PSTCollectionView: 6749df92885353521f55279a7ce2b293762e2be4
-  SCLAlertView-Objective-C: 4bf9a07c8a8d1840e5174e643e16bc032239914d
-  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SCLAlertView-Objective-C: e36ab12dc1ec4ff6f932888083b21d71a3a1ad23
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
   SVWebViewController: c36dda7326e81fcae0abf5d02bf7bbf7e41be901
   TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
   XHImageViewer: 7b275d2aa829e56761c30303b9d51cae086a90b9
